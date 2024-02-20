@@ -1,2 +1,2 @@
 # website-songs
-songs for my website
+songs and pictures for my website
